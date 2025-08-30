@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Shiva kumar ✨<br><br>🧠 AI and ML student at pallavi clg<br>🔬 I always try to create something new and helpful in real life<br>📑 I'm trying to learn ai/ml with ds <br>🎗️ I'm currently working on developing my skills in my field using python<br><!--
+## Hi, I'm Shiva kumar ✨<br><br>🧠 AI and ML student at pallavi clg<br>🔬 I always try to create something new and helpful in real life<br>📑 I'm trying to learn ai/ml with ds <br>🎗️ I'm currently working on developing my skills in my field using python<br>
 
 
 ## 🌐 Socials:
